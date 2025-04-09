@@ -65,7 +65,7 @@ https://xstack.ir
 
 ## Linux Installation
 
-Install form linux Snapcraft Store
+Install form linux Snapcraft Store Linux
 
 ```bash
   snap install anubias --classic
